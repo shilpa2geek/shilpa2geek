@@ -2,7 +2,6 @@
 
 **Senior Mobile Application Developer** with 12+ years of experience in building scalable, high-performance Android and cross-platform applications.
 
-📍 Based in Dallas, TX | 🌍 [LinkedIn](https://www.linkedin.com/in/shilpas1578468/) | 📧 [shilpa.geek@gmail.com](mailto:shilpa.geek@gmail.com)
 
 ---
 
